@@ -2,6 +2,8 @@
 
 A small, static dashboard prototype for exploring how to measure an AI agent's work from request to outcome. It includes an informational review panel based on the **Verify before publishing** proposal.
 
+For a manager-friendly explanation of the idea, dashboard sections, sample metrics, and next steps, see the [Manager Guide](MANAGER-GUIDE.md).
+
 ## Open the dashboard
 
 Open `index.html` in a browser. No install, account, or build step is required.
